@@ -1,0 +1,4 @@
+.mymoves_details{
+    display: flex;
+    flex-direction: column;
+}

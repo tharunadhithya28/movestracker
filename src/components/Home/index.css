@@ -1,0 +1,4 @@
+.homeseparation {
+  display: flex;
+  justify-content: space-around;
+}
